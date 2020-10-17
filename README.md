@@ -4,7 +4,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidrao2006&label=Profile%20views&color=0e75b6&style=flat" alt="sidrao2006" /> </p>  
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidrao2006&title=Joined2020,Issues,PullRequests,Commit,Repositories" alt="sidrao2006" /></a> </p>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidrao2006&title=Joined2020,Issues,PullRequest,Commit,Repositories" alt="sidrao2006" /></a> </p>  
   
 - 🔭 I’m currently working on **Arcygnus, a flutter app**  
   
