@@ -6,7 +6,8 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidrao2006&title=Joined2020,Issues,PullRequest,Commit,Repositories" alt="sidrao2006" /></a> </p>  
   
-- 🔭 I’m currently working on **Arcygnus, a flutter app**  
+- 🔭 I’m currently working on **`dynamic_cached_font`, a flutter package** and  **Arcygnus, a flutter app**
+Scroll down for more details on `dynamic_cached_font`!
   
 - 🌱 I’m currently learning **flutter, firebase**  
   
@@ -23,3 +24,19 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidrao2006&layout=compact" alt="sidrao2006" /></p>  
   <br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sidrao2006&show_icons=true&hide=stars" alt="sidrao2006" /></p>
+
+<br>
+<br>
+
+## New package!
+
+`dynamic_cached_font` is a new (pure dart) flutter package to download one or more fonts, cache them and load them only when needed in just **2 lines of code**. It's customizable too and supports all flutter platforms.
+
+#### Perks
+
+- Dynamic loading of fonts. Your app download size won't increase at all.
+- No source restrictions *. You can download a font from any url.
+- Easy to use firebase storage font download. You can easily upload a custom font to firebase storage and provide its link.
+- Efficient font caching. Font size is too big? Load it dynamically! Wanna cut down on network roundtrips? Cache it!
+
+* CORS has to be enabled
