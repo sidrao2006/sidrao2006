@@ -25,7 +25,7 @@
   <br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sidrao2006&show_icons=true&hide=stars" alt="sidrao2006" /></p>
 
-<br><br>
+<br><br><br><br><br>
 
 <div align="left">
 
