@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Aneesh Rao</h1>  
 <h3 align="center">A passionate frontend developer from India</h3>  
   
@@ -7,7 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidrao2006&title=Joined2020,Issues,PullRequest,Commit,Repositories" alt="sidrao2006" /></a> </p>  
   
 - 🔭 I’m currently working on **`dynamic_cached_font`, a flutter package** and  **Arcygnus, a flutter app**
-Scroll down for more details on `dynamic_cached_font`!
+  
+  Scroll down for more details on `dynamic_cached_font`!
   
 - 🌱 I’m currently learning **flutter, firebase**  
   
@@ -25,6 +25,7 @@ Scroll down for more details on `dynamic_cached_font`!
   <br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sidrao2006&show_icons=true&hide=stars" alt="sidrao2006" /></p>
 
+<br>
 <br>
 <br>
 
