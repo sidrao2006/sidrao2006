@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on **`dynamic_cached_font`, a flutter package** and  **Arcygnus, a flutter app**
   
-  Scroll down for more details on `dynamic_cached_font`!
+  [`dynamic_cached_font`](https://github.com/sidrao2006/dynamic_cached_font) is a new (pure dart) flutter package to download one or more fonts, cache them and load them only   when needed in just **2 lines of code**. It's customizable too and supports all flutter platforms.
   
 - 🌱 I’m currently learning **flutter, firebase**  
   
@@ -24,8 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidrao2006&layout=compact" alt="sidrao2006" /></p>  
   <br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sidrao2006&show_icons=true&hide=stars" alt="sidrao2006" /></p>
-
-
-## New package!
-
-[`dynamic_cached_font`](https://github.com/sidrao2006/dynamic_cached_font) is a new (pure dart) flutter package to download one or more fonts, cache them and load them only when needed in just **2 lines of code**. It's customizable too and supports all flutter platforms.
