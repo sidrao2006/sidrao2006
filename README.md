@@ -1,4 +1,4 @@
-### Hello, I'm Aneesh, a passionate frontend developer 😀
+### Hello, I'm Aneesh, a passionate frontend developer and open source contributor 😀
 
 - 💬 Wanna talk about **flutter, web frontend, python, bash** or collaborate with me, find me on the [Flutter Discord server] and occasionally on [/r/FlutterDev Discord server]...or [ping me](https://discordapp.com/users/724119894815277128)
 
