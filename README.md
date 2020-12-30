@@ -21,6 +21,14 @@
 [![JS Icon]][js]
 [![Python Icon]][python]
 
+#### Open Source Contributions
+
+![Adopt a Widget - Flutter](https://user-images.githubusercontent.com/66567899/103369890-52b37b00-4af1-11eb-8138-fe87d28ea0b5.gif)
+
+---
+
+#### Stats
+
 ![Profile views](https://komarev.com/ghpvc/?username=sidrao2006&label=Profile%20views&color=0e75b6&style=flat)
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=sidrao2006&title=Joined2020,Issues,PullRequest,Commit,Repositories)
@@ -38,15 +46,15 @@
 [Me@StackOverflow]: https://stackoverflow.com/users/11626847
 
 <!-- Links to icons -->
-[StackOverflow Icon]: https://raw.githubusercontent.com/sidrao2006/sidrao2006/main/icons/stackoverflow.svg
-[Bash Icon]: https://raw.githubusercontent.com/sidrao2006/sidrao2006/main/icons/bash.svg
-[CSS Icon]: https://raw.githubusercontent.com/sidrao2006/sidrao2006/main/icons/css3.svg
-[Dart Icon]: https://raw.githubusercontent.com/sidrao2006/sidrao2006/main/icons/dart.svg
-[Firebase Icon]: https://raw.githubusercontent.com/sidrao2006/sidrao2006/main/icons/firebase.svg
-[Flutter Icon]: https://raw.githubusercontent.com/sidrao2006/sidrao2006/main/icons/flutter.svg
-[HTML Icon]: https://raw.githubusercontent.com/sidrao2006/sidrao2006/main/icons/html5.svg
-[JS Icon]: https://raw.githubusercontent.com/sidrao2006/sidrao2006/main/icons/js.svg
-[Python Icon]: https://raw.githubusercontent.com/sidrao2006/sidrao2006/main/icons/python.svg
+[StackOverflow Icon]: ./icons/stackoverflow.svg
+[Bash Icon]: ./icons/bash.svg
+[CSS Icon]: ./icons/css3.svg
+[Dart Icon]: ./icons/dart.svg
+[Firebase Icon]: ./icons/firebase.svg
+[Flutter Icon]: ./icons/flutter.svg
+[HTML Icon]: ./icons/html5.svg
+[JS Icon]: ./icons/js.svg
+[Python Icon]: ./icons/python.svg
 
 <!-- Links to language webpages -->
 [bash]: https://www.gnu.org/software/bash/
