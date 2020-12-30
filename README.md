@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **flutter, firebase, reactjs**
 
 #### Connect with me:
-[![Stackoverflow Logo](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg =40x40)](https://stackoverflow.com/users/11626847)
+[![Stackoverflow Logo](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg =40x40)][Me@StackOverflow]
 
 
 #### Languages and Tools:
@@ -32,6 +32,7 @@
 [Flutter repo]: https://github.com/flutter/flutter
 [Flutter Discord server]: https://discord.gg/BS8KZyg
 [/r/FlutterDev Discord server]: https://discord.gg/rflutterdev
+[Me@StackOverflow]: https://stackoverflow.com/users/11626847
 [bash]: https://www.gnu.org/software/bash/
 [css]: https://www.w3schools.com/css/
 [dart]: https://dart.dev
