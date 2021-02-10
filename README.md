@@ -44,7 +44,7 @@
 [Flutter Discord server]: https://discord.gg/BS8KZyg
 [/r/FlutterDev Discord server]: https://discord.gg/rflutterdev
 [Me@StackOverflow]: https://stackoverflow.com/users/11626847
-[Me@Medium]: https://medium.com/@sidrao2006
+[Me@Medium]: https://sidrao2006.medium.com
 
 <!-- Links to icons -->
 [StackOverflow Icon]: ./icons/stackoverflow.svg
