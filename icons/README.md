@@ -11,3 +11,4 @@ The original sources are as follows -
 7. HTML5 Icon - https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg
 8. JS Icon - https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg
 9. Python Icon - https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg
+10. Medium Icon - https://medium.design/logos-and-brand-guidelines-f1a01a733592

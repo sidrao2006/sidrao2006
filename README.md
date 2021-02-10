@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **flutter, firebase, reactjs**
 
-#### Connect with me:
+#### Find me on..
 [![StackOverflow Icon]][Me@StackOverflow]
-
+[![Medium Icon]][Me@Medium]
 
 #### Languages and Tools:
 
@@ -44,6 +44,7 @@
 [Flutter Discord server]: https://discord.gg/BS8KZyg
 [/r/FlutterDev Discord server]: https://discord.gg/rflutterdev
 [Me@StackOverflow]: https://stackoverflow.com/users/11626847
+[Me@Medium]: https://medium.com/@sidrao2006
 
 <!-- Links to icons -->
 [StackOverflow Icon]: ./icons/stackoverflow.svg
@@ -55,6 +56,7 @@
 [HTML Icon]: ./icons/html5.svg
 [JS Icon]: ./icons/js.svg
 [Python Icon]: ./icons/python.svg
+[Medium Icon]: ./icons/medium.svg
 
 <!-- Links to language webpages -->
 [bash]: https://www.gnu.org/software/bash/
