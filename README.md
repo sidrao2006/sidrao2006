@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **flutter, firebase, reactjs**
 
-#### Connect with me:
+#### Find me on..
 [![StackOverflow Icon]][Me@StackOverflow]
 [![Medium Icon]][Me@Medium]
 
