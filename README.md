@@ -31,6 +31,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sidrao2006&label=Profile%20views&color=0e75b6&style=flat)
 
+[![StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/​?userID=11626847&layout=compact)](https://stackoverflow.com/users/11626847/sidrao2006)
+
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=sidrao2006&title=Joined2020,Issues,PullRequest,Commit,Repositories)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidrao2006&layout=compact)
