@@ -31,6 +31,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sidrao2006&label=Profile%20views&color=0e75b6&style=flat)
 
+[![Latest Article by Aneesh Rao][Latest Article]][Latest Article]
+
+[![Previous Article by Aneesh Rao][Previous Article]][Previous Article]
+
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=sidrao2006&title=Joined2020,Issues,PullRequest,Commit,Repositories)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidrao2006&layout=compact)
@@ -45,6 +49,9 @@
 [/r/FlutterDev Discord server]: https://discord.gg/rflutterdev
 [Me@StackOverflow]: https://stackoverflow.com/users/11626847
 [Me@Medium]: https://sidrao2006.medium.com
+
+[Latest Article]: https://github-readme-medium-recent-article.vercel.app/medium/@sidrao2006/0
+[Previous Article]: https://github-readme-medium-recent-article.vercel.app/medium/@sidrao2006/1
 
 <!-- Links to icons -->
 [StackOverflow Icon]: ./icons/stackoverflow.svg
