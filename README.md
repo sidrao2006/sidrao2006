@@ -1,76 +1,19 @@
-### Hello, I'm Aneesh, a passionate frontend developer and open source contributor 😀
+<h3 align="center">A hobbyist, student and open source contributor who loves learning new things.</h3>
 
-- 💬 Wanna talk about **flutter, web frontend, python, bash** or collaborate with me, find me on the [Flutter Discord server] and occasionally on [/r/FlutterDev Discord server]...or [ping me](https://discordapp.com/users/724119894815277128)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidrao2006&label=Profile%20views&color=0e75b6&style=flat" alt="sidrao2006" /> </p>
 
--  🔎 Find me triaging issues in the [Flutter repo]
+- 💬 Ask me about **flutter**
 
-- 🌱 I’m currently learning **flutter, firebase, reactjs**
+- 📫 How to reach me **sidrao2006@gmail.com**
 
-#### Find me on..
-[![StackOverflow Icon]][Me@StackOverflow]
-[![Medium Icon]][Me@Medium]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/11626847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11626847" height="30" width="40" /></a>
+<a href="https://medium.com/@sidrao2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sidrao2006" height="30" width="40" /></a>
+</p>
 
-#### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[![Bash Icon]][bash]
-[![CSS Icon]][css]
-[![Dart Icon]][dart]
-[![Firebase Icon]][firebase]
-[![Flutter Icon]][flutter]
-[![HTML Icon]][html5]
-[![JS Icon]][js]
-[![Python Icon]][python]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidrao2006&show_icons=true&theme=dark&locale=en" alt="sidrao2006" /></p>
 
-#### Open Source Contributions
-
-![Adopt a Widget - Flutter](https://user-images.githubusercontent.com/66567899/103369890-52b37b00-4af1-11eb-8138-fe87d28ea0b5.gif)
-
----
-
-#### Stats
-
-![Profile views](https://komarev.com/ghpvc/?username=sidrao2006&label=Profile%20views&color=0e75b6&style=flat)
-
-[![Latest Article by Aneesh Rao][Latest Article]][Latest Article]
-
-[![Previous Article by Aneesh Rao][Previous Article]][Previous Article]
-
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=sidrao2006&title=Joined2020,Issues,PullRequest,Commit,Repositories)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidrao2006&layout=compact)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sidrao2006&show_icons=true&hide=stars)
-
-
-<!-- LINKS -->
-
-[Flutter repo]: https://github.com/flutter/flutter
-[Flutter Discord server]: https://discord.gg/BS8KZyg
-[/r/FlutterDev Discord server]: https://discord.gg/rflutterdev
-[Me@StackOverflow]: https://stackoverflow.com/users/11626847
-[Me@Medium]: https://sidrao2006.medium.com
-
-[Latest Article]: https://github-readme-medium-recent-article.vercel.app/medium/@sidrao2006/0
-[Previous Article]: https://github-readme-medium-recent-article.vercel.app/medium/@sidrao2006/1
-
-<!-- Links to icons -->
-[StackOverflow Icon]: ./icons/stackoverflow.svg
-[Bash Icon]: ./icons/bash.svg
-[CSS Icon]: ./icons/css3.svg
-[Dart Icon]: ./icons/dart.svg
-[Firebase Icon]: ./icons/firebase.svg
-[Flutter Icon]: ./icons/flutter.svg
-[HTML Icon]: ./icons/html5.svg
-[JS Icon]: ./icons/js.svg
-[Python Icon]: ./icons/python.svg
-[Medium Icon]: ./icons/medium.svg
-
-<!-- Links to language webpages -->
-[bash]: https://www.gnu.org/software/bash/
-[css]: https://www.w3schools.com/css/
-[dart]: https://dart.dev
-[firebase]: https://firebase.google.com/
-[flutter]: https://flutter.dev
-[html5]: https://www.w3.org/html/
-[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[python]: https://www.python.org
