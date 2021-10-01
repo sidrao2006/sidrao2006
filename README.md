@@ -1,7 +1,5 @@
 <h3 align="center">A hobbyist, student and open source contributor who loves learning new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidrao2006&label=Profile%20views&color=0e75b6&style=flat" alt="sidrao2006" /> </p>
-
 - 💬 Ask me about **flutter**
 
 - 📫 How to reach me **sidrao2006@gmail.com**
